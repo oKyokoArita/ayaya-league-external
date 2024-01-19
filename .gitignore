@@ -1,0 +1,7 @@
+node_modules
+.vscode
+Release/obj
+**/ayaya-winapi/build
+dist
+build
+*.hide
